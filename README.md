@@ -1,2 +1,2 @@
-# Dataceiencerepo
+# Datasciencerepo
 # All Applied capstone project
